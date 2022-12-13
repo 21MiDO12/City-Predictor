@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\RandomGenerator.h(13,2): warning C4091: 'static ': ignored on left of 'Randomizer' when no variable is declared
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\Source.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\Source.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\Source.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\Source.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\Source.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\Source.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+D:\MyProjects\Cuda Parrallel Processing\cityPredictor\cityPredictor\Source.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+  cityPredictor.vcxproj -> D:\MyProjects\Cuda Parrallel Processing\cityPredictor\x64\Debug\cityPredictor.exe
